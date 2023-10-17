@@ -1,51 +1,51 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
+    - name: WANWan
+      value: Lecture
     - name: Date of Birth
-      value: 14th March 1879
+      value: 6th June 1995
     - name: Languages
-      value: English, German
+      value: Chinese, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master
+      institution: University of Hong Kong
+      year: 2017
       description:
-        - Description 1.
+        - Description 1.Information Technology in Education
         - Description 2.
-        - title: Description 3.
+        - title: Description 3.Social Media, Social Identity
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Government Scholarship Exchange Program
+      institution: University of Pennsylvania, USA
+      year: 2015
       description:
-        - Description 1.
-        - Description 2.
+        - Description 1.Humanistic Management
+        - Description 2.Museum Studies
 
 - title: Experience
   type: time_table
   contents:
     - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+      institution: Communication University of China, Nanjing
+      year: 2018 - 2023
       description:
-        - Description 1.
+        - Description 1.Lecture
         - Description 2.
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
     - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+      institution: MEWEI Media Corporation, Beijing, China
+      year: 2017
       description:
-        - Description 1.
+        - Description 1.Network Video Program Director
         - Description 2.
 
     - title: Director
