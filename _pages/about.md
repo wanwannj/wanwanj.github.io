@@ -25,4 +25,4 @@ I completed my undergraduate degree in Radio & Television Editing and Directing,
 
 Throughout my practice experiences, I was fortunate to join Nanjing TV Station, Jiangsu Broadcasting Corporation and Beijing MeWei Media Corporation as a TV program director and producer.
 
-Since 2018, I have been a lecture in the **Communication University of China, Nanjing**. I taught the core courses in Media and Communication, Film and Television Production. During my working period, I published 4 articles and my works won several prizes in national competitions.
+Since 2018, I have been a lecturer in the **Communication University of China, Nanjing**. I taught the core courses in Media and Communication, Film and Television Production. During my working period, I published 4 articles and my works won several prizes in national competitions.
