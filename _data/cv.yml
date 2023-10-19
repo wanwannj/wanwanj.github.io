@@ -1,10 +1,10 @@
 - title: General Information
   type: map
   contents:
-    - name: WANWan
-      value: Lecture
+    - name: WAN Wan
+      value: PhD Student
     - name: Date of Birth
-      value: 6th June 1995
+      value: June 1995
     - name: Languages
       value: Chinese, English
 
@@ -12,21 +12,23 @@
   type: time_table
   contents:
     - title: Master
-      institution: University of Hong Kong
+      institution: University of Hong Kong, Hong Kong
       year: 2017
       description:
-        - Description 1.Information Technology in Education
-        - Description 2.
-        - title: Description 3.Social Media, Social Identity
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Information Technology in Education
+       
+      
     - title: Government Scholarship Exchange Program
       institution: University of Pennsylvania, USA
       year: 2015
       description:
-        - Description 1.Humanistic Management
-        - Description 2.Museum Studies
+        - Humanistic Management: Museum Studies
+
+   - title: Government Scholarship Exchange Program
+      institution: Nanjing University of the Arts, Nanjing, China
+      year: 2013-2017
+      description:
+        - Radio & Television Editing and Directing
 
 - title: Experience
   type: time_table
@@ -35,7 +37,7 @@
       institution: Communication University of China, Nanjing
       year: 2018 - 2023
       description:
-        - Description 1.Lecture
+       
         - Description 2.
         - title: Description 3.
           contents:
