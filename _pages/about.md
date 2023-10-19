@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm WAN Wan(万万), a first-year Ph.D. student in School of [Journalism and Communication, Nanjing University](https://jc.nju.edu.cn/main.htm). My research interests are in **Cultural Studies**, **Social Media** and **Digital Humanities**.
+I'm WAN Wan(万万), a first-year Ph.D. student in School of [Journalism and Communication, Nanjing University](https://jc.nju.edu.cn/main.htm). My research interests are in **Cultural Communication**, **Social Media** and **Digital Humanities**.
 
 I completed my undergraduate degree in Radio & Television Editing and Directing, at the **Nanjing University of the Arts**. For research interest, I participated in Government Scholarship Exchange Program in the **University of Pennsylvania** to learn Culture and Museum Studies. I graduated from **The University of Hong Kong** with a master’s degree in Information Technology in Education, and joined two academic conferences on ICT (Information and Communications Technology)  in Hong Kong and France.
 
