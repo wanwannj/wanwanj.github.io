@@ -83,21 +83,27 @@
     - year: 2020
       items: 
         - Outstanding Instructor Award of the 8th Jiangsu Science Popularization Public Welfare Works Competition
+        - Outstanding Teacher Award, Communication University of China, Nanjing
     - year: 2018
       items: 
         - Certificate of Contributions to CITE Research Symposium 2018 Engaging Learning & Empowering Change, The University of Hong Kong
+        - Certificate of Contributions to 12th European Conference on Game- Based Learning, Sohpia Antipolis, France
     - year: 2017
       items: 
+        - Excellent Graduate, Nanjing University of the Arts
+    - year: 2017
+      items: 
+        - Second-class Scholarship, Nanjing University of the Arts
+        - Excellent League Cadre, Nanjing University of the Arts
+        - Merit Student, Nanjing University of the Arts
       
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Cultural Communication.
+    - title: Cultural Communication
 
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Social Media & Digital Humanities
+
 
 - title: Other Interests
   type: list
