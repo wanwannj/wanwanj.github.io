@@ -26,7 +26,6 @@
     {
       "name": "Communication University of China, Nanjing",
       "position": "Lecturer",
-      "url": "https://example.com",
       "startDate": "2018-09",
       "endDate": "2023-06",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
@@ -49,6 +48,19 @@
         "Theory of Relativity"
       ]
     }
+    {
+      "institution": "University of Pennsylvania, USA",
+      "url": "",
+      "area": "Humanistic Management: Museum Studies" ,
+      "studyType": "Government Scholarship Exchange Program",
+      "startDate": "2015",
+      "endDate": "2015",
+      "score": "",
+      "courses": [
+        "Theory of Relativity"
+      ]
+    }
+
   ],
   "awards": [
     {
