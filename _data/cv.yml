@@ -13,14 +13,11 @@
   contents:
     - title: Master
       institution: University of Hong Kong, Hong Kong
-      year: 1905
+      year: 2017-2018
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Faculty of Education
+        - Information Technology in Education
+        
     - title: Government Scholarship Exchange Program
       institution: University of Pennsylvania, USA
       year: 1900
