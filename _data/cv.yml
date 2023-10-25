@@ -81,11 +81,6 @@
       items: 
         - Second Prize of the 15th China Creative Challenges Contest
         -Special Prize, Second Prize & Third Prize of the 15th China Creative Challenges Contest in Jiangsu
-    
-    - year: 2020
-      items: 
-        - Second Prize of the 15th China Creative Challenges Contest
-
       
 - title: Academic Interests
   type: nested_list
