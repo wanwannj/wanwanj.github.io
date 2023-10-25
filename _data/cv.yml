@@ -79,6 +79,9 @@
     - year: 2021
       items: 
         - Second Prize of the 15th China Creative Challenges Contest
+    - year: 2020
+      items: 
+        - Second Prize of the 15th China Creative Challenges Contest
         
 - title: Academic Interests
   type: nested_list
@@ -95,4 +98,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Swimming, Skateboard, etc.
+    - <u>Hobbies:</u> Swimming, Skateboard, Coffee, Film Photography, Vinyl Records, etc.
