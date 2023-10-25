@@ -11,6 +11,13 @@
 - title: Education
   type: time_table
   contents:
+    - title: PhD Student
+      institution: Nanjing University, Nanjing, China
+      year: 2023-Now
+      description:
+        - School of Journalism and Communication
+        - Journalism and Communication
+        
     - title: Master
       institution: University of Hong Kong, Hong Kong
       year: 2017-2018
@@ -65,14 +72,34 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Outstanding Instructor Award of the 10th National College Digital & Art Design Award
+        - Third Price of the 5th National Digital Creative Teaching Skills Competition
+        
+    - year: 2021
       items: 
-        - Max Planck Medal
+        -Second Prize of the 15th China Creative Challenges Contest
+        - Special Prize, Second Prize & Third Prize of the 15th China Creative Challenges Contest in Jiangsu
+        - Outstanding Instructor Award of the 7th Jiangsu Science Popularization Public Welfare Works Competition
+        - Outstanding Instructor Award of the 9th National College Digital & Art Design Award
+        
+    - year: 2020
+      items: 
+        - Outstanding Instructor Award of the 8th Jiangsu Science Popularization Public Welfare Works Competition
+        -	Outstanding Teacher Award, Communication University of China, Nanjing
 
+    - year: 2018
+      items: 
+        - Certificate of Contributions to CITE Research Symposium 2018 Engaging Learning & Empowering Change, The University of Hong Kong
+        - Certificate of Contributions to 12th European Conference on Game- Based Learning, Sohpia Antipolis, France
+        
+    - year: 2017
+      items:
+        - Excellent Graduate, Nanjing University of the Arts
+
+      
+        
 - title: Academic Interests
   type: nested_list
   contents:
