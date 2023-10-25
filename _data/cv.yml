@@ -79,17 +79,21 @@
     - year: 2021
       items: 
         - Second Prize of the 15th China Creative Challenges Contest
+        - Special Prize, Second Prize & Third Prize of the 15th China Creative Challenges Contest in Jiangsu
     - year: 2020
       items: 
-        - Second Prize of the 15th China Creative Challenges Contest
-        
+        - Outstanding Instructor Award of the 8th Jiangsu Science Popularization Public Welfare Works Competition
+    - year: 2018
+      items: 
+        - Certificate of Contributions to CITE Research Symposium 2018 Engaging Learning & Empowering Change, The University of Hong Kong
+    - year: 2017
+      items: 
+      
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
+    - title: Cultural Communication.
+
     - title: Topic 2.
       items:
         - Description 1.
