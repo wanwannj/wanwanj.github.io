@@ -79,11 +79,14 @@
         
     - year: 2021
       items: 
-        -Second Prize of the 15th China Creative Challenges Contest
-        - Special Prize, Second Prize & Third Prize of the 15th China Creative Challenges Contest in Jiangsu
-        - Outstanding Instructor Award of the 7th Jiangsu Science Popularization Public Welfare Works Competition
-        - Outstanding Instructor Award of the 9th National College Digital & Art Design Award    
-        
+        - Second Prize of the 15th China Creative Challenges Contest
+        -Special Prize, Second Prize & Third Prize of the 15th China Creative Challenges Contest in Jiangsu
+    
+    - year: 2020
+      items: 
+        - Second Prize of the 15th China Creative Challenges Contest
+
+      
 - title: Academic Interests
   type: nested_list
   contents:
@@ -99,4 +102,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Swimming, Skateboard, Coffee, Film Photography, Vinyl Records, etc.
