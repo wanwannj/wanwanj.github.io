@@ -46,9 +46,8 @@
       institution: Communication University of China, Nanjing
       year: 2018 - 2023
       description:
-        - Description 1.
-        - Description 2.
-    
+        - Areas of Expertise | Media and Communication, Film and Television Production
+      
     - title: Network TV Program Director
       institution: MEWEI Media Corporation, Beijing, China
       year: 2017
@@ -62,16 +61,19 @@
       year: 2014
       description:
 
-- title: Open Source Projects
+- title: Personal Photography Portfolio
   type: time_table
   contents:
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+      year: 2013-now
+      description: (To be produced)
 
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2022
+      items: 
+        - Outstanding Instructor Award of the 11th National College Digital & Art Design Award
     - year: 2022
       items: 
         - Outstanding Instructor Award of the 10th National College Digital & Art Design Award
@@ -101,11 +103,10 @@
   type: nested_list
   contents:
     - title: Cultural Communication
-
-    - title: Social Media & Digital Humanities
+    - title: Digital Humanities
 
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Swimming, Skateboard, Coffee, Film Photography, Vinyl Records, etc.
+    - <u>Hobbies:</u> Swimming, Coffee, Skateboard, Tennis, Film Photography, Vinyl Records, etc.
