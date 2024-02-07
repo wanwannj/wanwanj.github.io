@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Documentary "The Lonely City",
+description: 7 days of-life in Zhejiang Xianju in-depth experience of the aging village, self-sufficient innate industrious and simple life of chinese people not just a record, but the most touching narrative.
 img: assets/img/12.jpg
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: Second Prize of the 15th China Creative Challenges Contest, 2021; 
+Special Prize of the 15th China Creative Challenges Contest in Jiangsu, 2021
 ---
 
 Every project has a beautiful feature showcase page.
