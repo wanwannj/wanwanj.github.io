@@ -71,7 +71,7 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2022
+    - year: 2023
       items: 
         - Outstanding Instructor Award of the 11th National College Digital & Art Design Award
     - year: 2022
@@ -93,11 +93,24 @@
     - year: 2017
       items: 
         - Excellent Graduate, Nanjing University of the Arts
-    - year: 2017
+    - year: 2016
       items: 
         - Second-class Scholarship, Nanjing University of the Arts
         - Excellent League Cadre, Nanjing University of the Arts
         - Merit Student, Nanjing University of the Arts
+        - Merit Student, School of Media and Communication, Nanjing University of the Arts
+    - year: 2015
+      items: 
+        - Outstanding League Member of Jiangsu Province
+        - Merit Student, Nanjing University of the Arts
+        - Third-class Scholarship, Nanjing University of the Arts
+    - year: 2014
+      items: 
+        - First-class Scholarship, Nanjing University of the Arts
+        - Outstanding Student Leader, Nanjing University of the Arts
+    - year: 2013
+      items: 
+    	  - Outstanding Student of Military Training
       
 - title: Academic Interests
   type: nested_list
