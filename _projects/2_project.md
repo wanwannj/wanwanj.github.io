@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CSCES Domestic & Foreign Version of Promo
-description: Chinese Service Center for Scholarly Exchange Promo: “Shaping the Future”, “Future beyond Limits”
+description: Chinese Service Center for Scholarly Exchange Promo “Shaping the Future” & “Future beyond Limits”
 img: assets/img/3.jpg
 importance: 2
 category: work
