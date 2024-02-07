@@ -5,8 +5,7 @@ description: 7 days of-life in Zhejiang Xianju in-depth experience of the aging 
 img: assets/img/12.jpg
 importance: 1
 category: work
-related_publications: Second Prize of the 15th China Creative Challenges Contest, 2021; 
-Special Prize of the 15th China Creative Challenges Contest in Jiangsu, 2021
+related_publications: 
 ---
 
 Every project has a beautiful feature showcase page.
