@@ -3,11 +3,21 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: Courses
-I have taught the following courses: Undergraduate Course Understanding Media (2018-2023) | Undergraduate Course Comparative Media Study (2018-2023)
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+Courses
+I have taught the following courses:
+* Undergraduate Course Understanding Media (2018-2023)
+* Undergraduate Course Comparative Media Study (2018-2023)
+* Undergraduate Course Television Studio Production (2018-2023)
+* Undergraduate Course Network Television Planning and Production (2018-2023)
+* Undergraduate Course Film and Television Directing (2018-2023)
+* Undergraduate Course Social Media Case Studies (2022-2023)
+* Undergraduate Course Communication Effect Research and Measurement (2022)
+* Undergraduate Course Creative Thinking (2021-2022)
+* Undergraduate Course Introduction to Documentary (2018-2019)
+* Undergraduate Course TV Literary Writing (2019)
+* Undergraduate Course Introduction to New Media (2019)
+* Undergraduate Course Animation Basics (2018)
