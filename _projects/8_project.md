@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Design and development of Music Panda - an educational digital game for primary students
-description: 12th European Conference on Game-Based Learning, Sohpia Antipolis, France & 2018 CITE Research Symposium ”Engaging Learning & Empowering Change“
-img: assets/img/13.jpg
+description: 12th European Conference on Game-Based Learning, Sohpia Antipolis, France
+img: assets/img/14.jpg
 importance: 1
 category: research
 related_publications: 
