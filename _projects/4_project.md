@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: HongKong
+description: Causeway Bay
 img:
 importance: 3
-category: fun
+category: photography
 ---
 
 Every project has a beautiful feature showcase page.
