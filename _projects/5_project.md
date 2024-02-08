@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: North Korea
+description: 2017
 img: assets/img/1.jpg
 importance: 3
-category: fun
+category: photography
 ---
 
 Every project has a beautiful feature showcase page.
