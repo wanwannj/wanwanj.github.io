@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Personal micro-course "Network TV Program Planning and Production"
+description: Third Price of the 5th National Digital Creative Teaching Skills Competition
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
