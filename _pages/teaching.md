@@ -2,12 +2,13 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Courses
+description: 
 nav: true
 nav_order: 5
 ---
 
 |Courses|
+
 I have taught the following courses:
 * Undergraduate Course Animation Basics (2018)
 * Undergraduate Course Introduction to Documentary (2018-2019)
@@ -28,7 +29,7 @@ I have been a teaching assistant for the following courses (dual language):
 * Undergraduate Course Studio Production  (2023)
 * Undergraduate Course Storytelling: from page to screen  (2022)
 * Undergraduate Course Creativity & Design (2022)
-
+  
 2. Communication University of China, Nanjing and Canada Sheridan College
 * Lecture: Director’s Process & Preparation (2019)
 * Lecture: Film and Cinematography (2019）
