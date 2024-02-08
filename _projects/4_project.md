@@ -2,7 +2,7 @@
 layout: page
 title: HongKong
 description: Causeway Bay
-img:
+img:assets/img/10.jpg
 importance: 3
 category: photography
 ---
