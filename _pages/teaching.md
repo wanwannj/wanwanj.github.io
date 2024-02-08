@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: Courses
-I have taught the following courses:* Undergraduate Course Understanding Media (2018-2023) * Undergraduate Course Comparative Media Study (2018-2023)
+I have taught the following courses: Undergraduate Course Understanding Media (2018-2023) | Undergraduate Course Comparative Media Study (2018-2023)
 nav: true
 nav_order: 5
 ---
