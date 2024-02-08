@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
+title: Graduation Project in Film Creation
+description: 2017 Jiangsu Huaian
+img:/assets/img/111.jpg
 importance: 4
-category: fun
+category: photography
 ---
 
 Every project has a beautiful feature showcase page.
