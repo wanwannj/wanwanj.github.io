@@ -2,7 +2,7 @@
 layout: page
 title: Graduation Project in Film Creation
 description: 2017 Jiangsu Huaian
-img:/assets/img/111.jpg
+img: assets/img/111.jpg
 importance: 4
 category: photography
 ---
