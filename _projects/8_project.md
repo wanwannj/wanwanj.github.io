@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Documentary "The Lonely City",
-description: 7 days of-life in Zhejiang Xianju in-depth experience of the aging village, self-sufficient innate industrious and simple life of chinese people not just a record, but the most touching narrative.
-img: assets/img/12.jpg
+title: Design and development of Music Panda - an educational digital game for primary students
+description: 12th European Conference on Game-Based Learning, Sohpia Antipolis, France & 2018 CITE Research Symposium ”Engaging Learning & Empowering Change“
+img: assets/img/13.jpg
 importance: 1
-category: work
+category: research
 related_publications: 
 ---
 
